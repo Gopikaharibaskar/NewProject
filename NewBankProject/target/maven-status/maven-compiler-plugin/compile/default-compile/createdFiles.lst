@@ -1,0 +1,10 @@
+com\mph\loader\DynamicParser.class
+com\mph\loader\TextFileFetcher.class
+com\mph\move\LoadFileMay1.class
+com\mph\codefordataset\FraudDetectionFileGenerator.class
+com\mph\records\BankingCustomer.class
+com\mph\records\BankAccount.class
+com\mph\codefordataset\TransactionGenerator.class
+com\mph\codefordataset\BankingCustomerFileGenerator.class
+com\mph\annotations\FieldLength.class
+com\mph\loader\MongoTextFileLoader.class
